@@ -1,0 +1,8 @@
+[package]
+name = "synthetic-dev/enums"
+description = "A simple custom enum package"
+version = "1.0.0"
+license = "MIT"
+authors = ["SyntheticDev"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
